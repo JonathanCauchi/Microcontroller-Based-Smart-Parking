@@ -1,0 +1,23 @@
+
+\begin{thebibliography}{1}
+
+\bibitem{Web1}
+``Microcontroller definition.''
+  \url{https://www.merriam-webster.com/dictionary/microcontroller}.
+\newblock Accessed: 2019-02-28.
+
+\bibitem{Web2}
+``Microcontroller overview.''
+  \url{https://www.tutorialspoint.com/microprocessor/microcontrollers_overview.htm}.
+\newblock Accessed: 2019-02-28.
+
+\bibitem{Web3}
+``Microcontroller overview.'' \url{
+  https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/whatis/index.html}.
+\newblock Accessed: 2019-02-28.
+
+\bibitem{ARMAssembly}
+W.~Hohl and C.~Hinds, {\em ARM Assembly Language: Fundamentals and Techniques}.
+\newblock CRC Press, second edition~ed., 2014.
+
+\end{thebibliography}

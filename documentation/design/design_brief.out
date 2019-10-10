@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{System Design}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Hardware}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Input Hardware}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Output Hardware}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Connecting the Hardware with the MicroController}{subsection.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Dependencies}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Software}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Problems encountered}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.5}{Testing the system}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.6}{Requirements}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Management}{}% 12
+\BOOKMARK [1][-]{section.4}{Closure}{}% 13
