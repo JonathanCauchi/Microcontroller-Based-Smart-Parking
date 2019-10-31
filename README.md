@@ -8,6 +8,6 @@ Hardware includes:
 - Development Board
 
 Missing:
-- System was intended to have servo motors at each gate. Due to unsufficient time, LED's were implemented instead as the access markers
+- System was intended to have servo motors at each gate. Due to unsufficient time, LED's were implemented instead as the entry/exit markers
 
 Demonstration Video: https://www.youtube.com/watch?v=RR1edV4ZJng
